@@ -10,4 +10,4 @@ This projects aims to train a animal-like entity to represent the world by evovl
 
 ### Stage :
 
-![Mindmap](./docs/mindmap.html)
+[🧠 View Mindmap](./docs/mindmap.html)
