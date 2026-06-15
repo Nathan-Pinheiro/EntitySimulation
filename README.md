@@ -10,4 +10,4 @@ This projects aims to train a animal-like entity to represent the world by evovl
 
 ### Stage :
 
-[🧠 View Mindmap](./docs/mindmap.html)
+[🧠 Open Interactive Mindmap](https://github.com/Nathan-Pinheiro/EntitySimulation/mindmap.html)
